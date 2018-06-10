@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Sebastian Neferu - Web Developer
+
+# THANKS
+
+	Eric Meyer (@meyerweb) for being a pioneer on the Web (http://meyerweb.com/)
+	Adam Whitecroft (@adamwhitcroft) for his Batch icon set (http://adamwhitcroft.com/batch/)
+	WPZoom (@wpzoom) for their free vector icons(http://all-silhouettes.com/free-vector-icons/)
+	MailBigFile for their pdf vector icon (http://medialoot.com/item/free-vector-filetype-icons/)
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3, Compass, Middleman
+	jQuery, Modernizr, slabText
+	Visual Studio Code, Firebug, FireSASS
